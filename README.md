@@ -1,5 +1,9 @@
 ![header](https://github.com/vampdev/vampdev/blob/main/header.png?raw=true)
 
+<img src="https://img.shields.io/badge/who-vampdev-red"> <img src="https://img.shields.io/badge/what-he%2Fhim%2Fhis-important">
+<img src="https://img.shields.io/badge/how-very%20carefully-brightgreen"> <img src="https://img.shields.io/badge/currently-coding-9cf">
+
+
 <!--
 **VampDev/vampdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
